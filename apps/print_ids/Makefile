@@ -2,9 +2,8 @@ APPLICATION = printids
 
 BOARD ?= iotlab-m3
 
-# make sure this branxch is on: puf_continue_rene
 RIOTBASE ?= $(CURDIR)/../../RIOT
-RIOTBASE=/media/DATA/RIOT
+
 ## Change one of the following flags to configure the fuzzy extractor.
 CFLAGS?=-DPUF_SRAM_CODEOFFSET_LEN=18
 CFLAGS?=-DECC_REPETITION_COUNT=7

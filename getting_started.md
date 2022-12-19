@@ -3,10 +3,10 @@
 
 
 ### Operating System
-[RIOT](https://github.com/inetrg/RIOT/tree/TDSC22) points to our fork of the operating system RIOT repository. We base our work on the [Release-2022.01](https://github.com/RIOT-OS/RIOT/releases/tag/2022.01) and apply changes on top of it.
+[RIOT](https://github.com/inetrg/RIOT/tree/TDSC23) points to our fork of the operating system RIOT repository. We base our work on the [Release-2022.01](https://github.com/RIOT-OS/RIOT/releases/tag/2022.01) and apply changes on top of it.
 Due to the OS integration there are many changes included, however, the most fundamental contributions are located in *RIOT/sys/*.
 
-To view all changes, see [this diff](https://github.com/inetrg/RIOT/commit/51906f03d932e15f6bed37a7a5753cbc030aa6d8).
+To view all changes, see [this diff](https://github.com/inetrg/RIOT/commit/bf2244ee01df6972eea314f7cbc29fb495e3cdf3).
 
 
 ### Measurement Applications
@@ -20,7 +20,7 @@ Additionally, an application folder includes one or multiple **.elf* files (comp
 Clone this repository and navigate to the root directory. Note, you need to set up your GitHub properly in order to clone vis SSH.
 
 ```
-git clone git@github.com:inetrg/IEEE-TDSC-PUF22.git && cd IEEE-TDSC-PUF22
+git clone git@github.com:inetrg/IEEE-TDSC-PUF23.git && cd IEEE-TDSC-PUF23
 ```
 
 Update the git submodule:
