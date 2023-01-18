@@ -15,6 +15,6 @@ Please follow our [Getting Started](getting_started.md) instructions for further
 
 <!-- TODO: update URLs -->
 [paper-link]:https://github.com/inetrg/IEEE-TDSC-PUF23
-[preprint-link]:https://github.com/inetrg/IEEE-TDSC-PUF23
+[preprint-link]:https://arxiv.org/pdf/2301.07048
 [paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-gray
-[preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-gray
+[preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-green
