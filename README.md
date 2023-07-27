@@ -3,7 +3,7 @@
 [![Paper][paper-badge]][paper-link]
 [![Preprint][preprint-badge]][preprint-link]
 
-This repository contains code and documentation to reproduce experimental results of the paper **"PUF for the Commons: Enhancing Embedded Security on the OS Level"** submitted to IEEE Transactions on Dependable and Secure Computing 2023.
+This repository contains code and documentation to reproduce experimental results of the paper **"PUF for the Commons: Enhancing Embedded Security on the OS Level"** accepted for publication in IEEE Transactions on Dependable and Secure Computing 2023.
 
  **Abstract**
  > Security is essential for the Internet of Things (IoT). Cryptographic operations for authentication and encryption commonly rely on random input of high entropy and secure, tamper-resistant identities, which are difficult to obtain on constrained embedded devices.
