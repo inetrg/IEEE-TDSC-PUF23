@@ -2,6 +2,7 @@
 
 [![Paper][paper-badge]][paper-link]
 [![Preprint][preprint-badge]][preprint-link]
+[![Data][data-badge]][data-link]
 
 This repository contains code and documentation to reproduce experimental results of the paper **"PUF for the Commons: Enhancing Embedded Security on the OS Level"** accepted for publication in IEEE Transactions on Dependable and Secure Computing 2023.
 
@@ -18,3 +19,5 @@ Please follow our [Getting Started](getting_started.md) instructions for further
 [preprint-link]:https://arxiv.org/pdf/2301.07048
 [paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-gray
 [preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-green
+[data-link]: https://doi.org/10.21227/axff-kc36
+[data-badge]: https://img.shields.io/badge/Data-IEEE%20DataPort-blue
