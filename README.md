@@ -15,9 +15,9 @@ In a practical security assessment we show that SRAM PUFs resist moderate attack
 Please follow our [Getting Started](getting_started.md) instructions for further information on how to compile and execute the code.
 
 <!-- TODO: update URLs -->
-[paper-link]:https://github.com/inetrg/IEEE-TDSC-PUF23
+[paper-link]:https://www.doi.org/10.1109/TDSC.2023.3300368
 [preprint-link]:https://arxiv.org/pdf/2301.07048
-[paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-gray
+[paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-green
 [preprint-badge]: https://img.shields.io/badge/Preprint-arXiv-green
 [data-link]: https://doi.org/10.21227/axff-kc36
 [data-badge]: https://img.shields.io/badge/Data-IEEE%20DataPort-blue
